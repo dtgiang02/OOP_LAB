@@ -1,4 +1,3 @@
-package lab02;
 
 public class DigitalVideoDisc {
 	private String title;
